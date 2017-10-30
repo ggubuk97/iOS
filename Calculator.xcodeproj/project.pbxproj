@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D70E8B031FA2FCAC002DD8DF /* CalculatorBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = D70E8B021FA2FCAC002DD8DF /* CalculatorBrain.swift */; };
 		D7A987471FA0741300F21A5E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7A987461FA0741300F21A5E /* AppDelegate.swift */; };
 		D7A987491FA0741300F21A5E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7A987481FA0741300F21A5E /* ViewController.swift */; };
 		D7A9874C1FA0741300F21A5E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D7A9874A1FA0741300F21A5E /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D70E8B021FA2FCAC002DD8DF /* CalculatorBrain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorBrain.swift; sourceTree = "<group>"; };
 		D7A987431FA0741300F21A5E /* Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Calculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D7A987461FA0741300F21A5E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D7A987481FA0741300F21A5E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 		D7A987451FA0741300F21A5E /* Calculator */ = {
 			isa = PBXGroup;
 			children = (
+				D70E8B021FA2FCAC002DD8DF /* CalculatorBrain.swift */,
 				D7A987481FA0741300F21A5E /* ViewController.swift */,
 				D7A9874A1FA0741300F21A5E /* Main.storyboard */,
 				D7A987521FA0741300F21A5E /* Info.plist */,
@@ -144,6 +147,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D70E8B031FA2FCAC002DD8DF /* CalculatorBrain.swift in Sources */,
 				D7A987491FA0741300F21A5E /* ViewController.swift in Sources */,
 				D7A987471FA0741300F21A5E /* AppDelegate.swift in Sources */,
 			);
